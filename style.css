@@ -1,0 +1,22 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html
+{
+    font-size: 62.5%;
+}
+
+body
+{
+    color: deeppink;
+    font-family: fantasy;
+    border-color: forestgreen;
+}
+p
+{
+    font-size: 1.8rem;
+}
