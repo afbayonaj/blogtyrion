@@ -10,14 +10,24 @@ html
     font-size: 62.5%;
 }
 
-body
+.header h1
 {
+    font-size: 4rem;
     color: deeppink;
     font-family: tahoma;
-    border-color: forestgreen;
     text-align: center;
+    border: 0.1rem solid #DDD;
+    width: 70%;
+    margin: auto;
 }
-p
+
+.container
 {
     font-size: 1.8rem;
+    color: deeppink;
+    font-family: tahoma;
+    text-align: center;
+    border: 0.1rem solid #DDD;
+    width: 70%;
+    margin: auto;
 }
