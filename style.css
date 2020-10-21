@@ -10,15 +10,26 @@ html
     font-size: 62.5%;
 }
 
-.header h1
+.header
 {
+    background-color: #33a;
+    box-shadow: 0rem 0.2rem 2rem 0rem rgba(0, 0, 0, 0.5);
     font-size: 4rem;
-    color: deeppink;
+    color: white;
+    font-weight: bold;
     font-family: tahoma;
-    text-align: center;
+    text-align: left;
     border: 0.1rem solid #DDD;
     width: 70%;
     margin: auto;
+    padding: 0.5rem;
+}
+
+.header span
+{
+    margin: 0;
+    font-weight: normal;
+    font-size: 2rem;
 }
 
 .container
@@ -26,7 +37,7 @@ html
     font-size: 1.8rem;
     color: deeppink;
     font-family: tahoma;
-    text-align: center;
+    text-align: left;
     border: 0.1rem solid #DDD;
     width: 70%;
     margin: auto;
