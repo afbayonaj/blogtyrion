@@ -48,3 +48,16 @@ html
     width: 70%;
     margin: auto;
 }
+
+.footer
+{
+    background-color: #777;
+    font-size: 1.5rem;  
+    color: white;
+    font-family: tahoma;
+    text-align: center;
+    border: 0.1rem solid #DDD;
+    width: 70%;
+    margin: auto;
+    padding: 1rem;
+}
